@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu_00.unity
+    guid: 1e8694c32197d984687fb241169f5b14
+  - enabled: 1
+    path: Assets/Scenes/Race/Track_Rock_01.unity
+    guid: e15248f4cd4ef844a9e62385b8c00fbc
+  - enabled: 1
+    path: Assets/Scenes/Race/Track_Wood_02.unity
+    guid: 6a21d78b886052c458e334e5b37c428d
+  - enabled: 1
+    path: Assets/Scenes/Race/Track_Snow_03.unity
+    guid: f381f2d64fb50844b87bef47dab37cdd
+  - enabled: 1
+    path: Assets/Scenes/Race/Track_Sand_04.unity
+    guid: f955c6b4169fc764b9eb7860e76edb7f
+  m_configObjects: {}
